@@ -1,0 +1,3 @@
+/home/florentina/Downloads/ooplab/lab8/cmake-build-debug/CMakeFiles/lab8.dir
+/home/florentina/Downloads/ooplab/lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/florentina/Downloads/ooplab/lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
